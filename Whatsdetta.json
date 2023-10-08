@@ -1,0 +1,163 @@
+{
+    "name": "Whatsdetta",
+    "description": "Make Discord look like Whatsapp. Made for Aliucord by Lanney, edited by Elaisa",
+    "authors": [
+            {
+                    "name": "Elaisa",
+                    "id": "607083298996486183"
+            }
+    ],
+    "spec": 2,
+    "semanticColors": {
+            "HEADER_PRIMRARY": [
+                    "#FEFFFD",
+                    "#FEFFFD",
+                    "#FEFFFD"
+            ],
+            "HEADER_SECONDARY": [
+                    "#BBBCC0",
+                    "#BBBCC0",
+                    "#BBBCC0"
+            ],
+            "TEXT_LINK": [
+                    "#14A083",
+                    "#14A083",
+                    "#14A083"
+            ],
+            "TEXT_NORMAL": [
+                    "#FEFFFD",
+                    "#FEFFFD",
+                    "#FEFFFD"
+            ],
+            "TEXT_MUTED": [
+                    "#A3A6AB",
+                    "#A3A6AB",
+                    "#A3A6AB"
+            ],
+            "INTERACTIVE_NORMAL": [
+                    "#FEFFFD",
+                    "#FEFFFD",
+                    "#FEFFFD"
+            ],
+            "INTERACTIVE_HOVER": [
+                    "#0E151B",
+                    "#0E151B",
+                    "#0E151B"
+            ],
+            "INTERACTIVE_ACTIVE": [
+                    "#FFFFFF",
+                    "#FFFFFF",
+                    "#FFFFFF"
+            ],
+            "BACKGROUND_PRIMRARY": [
+                    "#131b22",
+                    "#131b22",
+                    "#131b22"
+            ],
+            "BACKGROUND_SECONDARY": [
+                    "#222c32",
+                    "#222c32",
+                    "#222c32"
+            ],
+            "BACKGROUND_SECONDARY_ALT": [
+                    "#202d34",
+                    "#202d34",
+                    "#202d34"
+            ],
+            "BACKGROUND_TERTIARY": [
+                    "#192327",
+                    "#192327",
+                    "#192327"
+            ],
+            "BACKGROUND_ACCENT": [
+                    "#0ebc84",
+                    "#0ebc84",
+                    "#0ebc84"
+            ],
+            "BACKGROUND_MOBILE_SECONDARY": [
+                    "#141b22",
+                    "#141b22",
+                    "#141b22"
+            ],
+            "BACKGROUND_MOBILE_PRIMARY": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ],
+            "BACKGROUND_MODIFIER_HOVER": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ],
+            "BACKGROUND_MODIFIER_SELECTED": [
+                    "#08684c",
+                    "#08684c",
+                    "#08684c"
+            ],
+            "BACKGROUND_MODIFIER_ACCENT": [
+                  "#131b22",
+                  "#131b22",
+                  "#131b22"  
+            ],
+            "CHANNEL_ICON": [
+                    "#84989f",
+                    "#84989f",
+                    "#84989f"
+            ],
+            "SCROLLBAR_THIN_THUMB": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "SCROLLBAR_THIN_TRACK": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "SCROLLBAR_AUTO_THUMB": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "SCROLLBAR_AUTO_TRACK": [
+                    "#838b8e",
+                    "#838b8e",
+                    "#838b8e"
+            ],
+            "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+                    "#858b92",
+                    "#858b92",
+                    "#858b92"
+            ],
+            "SPOILER_HIDDEN_BACKGROUND": [
+                    "#292e31",
+                    "#292e31",
+                    "#292e31"
+            ],
+            "BACKGROUND_NESTED_FLOATING": [
+                    "#121c22",
+                    "#121c22",
+                    "#121c22"
+            ]
+
+    },
+    "rawColors": {
+            "BRAND_260": "#005d4b",
+            "BRAND_500": "#005d4b",
+            "BRAND_560": "#5fcbba",
+            "GREEN_360": "#0a5943",
+            "RED_400": "#0ebc85",
+            "YELLOW_300": "#0dbc86",
+            "PRIMARY_100": "#ffffff",
+            "PRIMARY_600": "#131b22",
+            "PRIMARY_630": "#131b22",
+            "PRIMARY_800": "#131c22",
+            "PRIMARY_700": "#131c22"
+    },
+    "background": {
+            "blur": 0,
+            "url": "https://cdn.discordapp.com/attachments/933903142934954074/972343035654455326/LargerWhatscordGreen.gif",
+            "alpha": 1,
+            "color": "#005d4b"
+    }
+}
