@@ -222,14 +222,7 @@
   z-index: unset;
 }
 
-.panel-2ZFCRb {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  border-bottom: none;
-  background-color: var(--background-tertiary);
-  transition: width 0.35s;
-}
+
 .panel-2ZFCRb .gameWrapper-2TFy7F {
   margin-left: 12px;
 }
